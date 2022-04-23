@@ -1,6 +1,6 @@
-### Hi there,I'm Alperen Akgün. :smiley:
+## Hi there,I'm Alperen Akgün. :smiley:
 
-## Fullstack Developer 
+### Fullstack Developer 
 
 ### Connect with me:
 
@@ -57,13 +57,13 @@
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="35" height="35"/>
 
-
-
 <br/>
 <br/>
 
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Alperen10&show_icons=true&include_all_commits=true&theme=default" alt="Alperen10's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alperen10&layout=compact&theme=buefy&hide_border=true" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alperen10&show_icons=true&locale=en" alt="Alperen10" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alperen10&show_icons=true&locale=en&layout=compact" alt="Alperen10" /></p>
 
 
 [linkedin]:https://tr.linkedin.com/in/alperen-akg%C3%BCn-5b55761a4
