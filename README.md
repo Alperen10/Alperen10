@@ -63,7 +63,7 @@
 <br/>
 
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Alperen10&show_icons=true&include_all_commits=true&theme=default" alt="Alperen10's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alperen10&layout=compact&theme=buefy&hide_border=true" /></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Alperen10&show_icons=true&include_all_commits=true&theme=default" alt="Alperen10's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alperen10&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
 [linkedin]:https://tr.linkedin.com/in/alperen-akg%C3%BCn-5b55761a4
