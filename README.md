@@ -1,4 +1,4 @@
-## Hi there,I'm Alperen Akgün. :smiley:
+## Hi there,I'm Alperen Akgün. :slightly_smiling_face:
 
 ### Fullstack Developer :man_technologist:
 
