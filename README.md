@@ -1,4 +1,4 @@
-## Hi there,I'm Alperen Akgün. :slightly_smiling_face:
+## Hi there, I'm Alperen Akgün. :slightly_smiling_face:
 
 ### Software Engineer :man_technologist:
 
