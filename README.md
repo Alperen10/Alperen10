@@ -1,6 +1,6 @@
 ## Hi there,I'm Alperen Akgün. :slightly_smiling_face:
 
-### Fullstack Developer :man_technologist:
+### Software Engineer :man_technologist:
 
 ### Connect with me:
 
