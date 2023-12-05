@@ -8,6 +8,8 @@
 
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
 
+![](https://komarev.com/ghpvc/?username=Alperen10)
+
 <br/>
 <br/>
 
